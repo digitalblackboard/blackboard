@@ -1,6 +1,6 @@
 ---
 title: Python basics
-date: '2021-01-01'
+date: "2021-01-01"
 type: book
 weight: 20
 ---
@@ -20,7 +20,7 @@ Build a foundation in Python.
 {{< spoiler text="What is the difference between lists and tuples?" >}}
 Lists
 
-- Lists are mutable - they can be changed
+- Lists are mutable - they can be changed!
 - Slower than tuples
 - Syntax: `a_list = [1, 2.0, 'Hello world']`
 
